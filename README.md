@@ -43,11 +43,17 @@ Comecei com print simples, evolui para listas, depois para
 dicionários - mostrando crescimento no pensamento de estruturação.
 
 ## 📊 Funcionalidades Implementadas
-✅ Coleta automática dos 5 primeiros resultados  
-✅ Conversão de preços para formato numérico  
-✅ Identificação do produto mais barato e mais caro  
-✅ Cálculo da diferença entre extremos  
-✅ Saída formatada e organizada  
+- ✅ Coleta automática dos 5 primeiros resultados  
+- ✅ Conversão de preços para formato numérico  
+- ✅ Identificação do produto mais barato e mais caro  
+- ✅ Cálculo da média dos preços coletados
+- ✅ Cálculo da diferença entre extremos  
+- ✅ Saída formatada e organizada
+## 💾 Exportação Profissional
+- ✅ Geração automática de arquivos CSV
+- ✅ Nomes únicos com timestamp (kindle_precos_YYYYMMDD_HHMMSS.csv)
+- ✅ Formatação correta para Excel/Google Sheets
+- ✅ Codificação UTF-8 para caracteres especiais
 
 ## 🚧 Desafios Enfrentados
 - **Amazon muda constantemente**: Classes CSS podem alterar
