@@ -46,14 +46,14 @@ Como desenvolvedor em aprendizado, queria:
 - Data Cleaning: Limpeza e transformação de strings para numéricos
   ### 1. Tela Inicial
 
-Aqui o usuário insere o termo de pesquisa (Ex: "Kindle") e inicia a busca.
+Aqui o usuário insere o termo de pesquisa (Ex: "Brinquedo") e inicia a busca.
 
-![Captura de Tela da Interface Inicial](foto1.png)
+![Captura de Tela da Interface Inicial](assets/foto1.png)
 ### 2. Resultados e Análise
 
 Exibição dos 5 produtos encontrados, o resumo estatístico e o botão para download do CSV.
 
-![Captura de Tela dos Resultados e Métricas](foto2.png)
+![Captura de Tela dos Resultados e Métricas](assets/foto2.png)
 
 ## ⚙️ Tecnologias Utilizadas
 
