@@ -12,6 +12,7 @@
 <h2 align="center">📊 Monitoramento Inteligente de Preços da Amazon</h2>
 Um projeto de aprendizado em automação web com Selenium
 
+
 # 📝 Descrição do Projeto
 
 ## Este projeto é uma aplicação web construída com **Streamlit** que utiliza **Selenium** para realizar a raspagem de dados (web scraping) na Amazon Brasil. O objetivo é buscar um produto especificado pelo usuário e extrair os preços dos primeiros resultados, fornecendo uma análise estatística rápida e a opção de download dos dados.
@@ -43,6 +44,16 @@ Como desenvolvedor em aprendizado, queria:
 - DataFrames: Estruturação tabular dos produtos coletados
 - Operações Vetorizadas: Cálculos eficientes de estatísticas
 - Data Cleaning: Limpeza e transformação de strings para numéricos
+  ### 1. Tela Inicial
+
+Aqui o usuário insere o termo de pesquisa (Ex: "Kindle") e inicia a busca.
+
+![Captura de Tela da Interface Inicial](foto1.png)
+### 2. Resultados e Análise
+
+Exibição dos 5 produtos encontrados, o resumo estatístico e o botão para download do CSV.
+
+![Captura de Tela dos Resultados e Métricas](foto2.png)
 
 ## ⚙️ Tecnologias Utilizadas
 
